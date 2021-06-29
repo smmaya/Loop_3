@@ -1,1 +1,1 @@
-# Loop_3
+Loop 3 - Rysowanie gwiazdek
